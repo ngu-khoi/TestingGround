@@ -21,6 +21,7 @@
 		6A7E109F28AFF05700CE3CFD /* PlaceHolderText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A7E109E28AFF05700CE3CFD /* PlaceHolderText.swift */; };
 		6A832ED128A5C98F00F4EBEF /* BackgroundColorHelp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A832ED028A5C98F00F4EBEF /* BackgroundColorHelp.swift */; };
 		6A832ED328A60BC000F4EBEF /* ColorPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A832ED228A60BC000F4EBEF /* ColorPicker.swift */; };
+		6AA4D330290BA49A002FFDE5 /* NavigationVStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AA4D32F290BA49A002FFDE5 /* NavigationVStack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		6A7E109E28AFF05700CE3CFD /* PlaceHolderText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceHolderText.swift; sourceTree = "<group>"; };
 		6A832ED028A5C98F00F4EBEF /* BackgroundColorHelp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundColorHelp.swift; sourceTree = "<group>"; };
 		6A832ED228A60BC000F4EBEF /* ColorPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPicker.swift; sourceTree = "<group>"; };
+		6AA4D32F290BA49A002FFDE5 /* NavigationVStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = NavigationVStack.swift; path = ../../../NavigationVStack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				6A7E109C28AFF04500CE3CFD /* Frame.swift */,
 				6A6F2D6428C2FFA00091CFE4 /* ImproperTabview.swift */,
 				6A0671712905B4E800EAB0D4 /* ButtonEnumeration.swift */,
+				6AA4D32F290BA49A002FFDE5 /* NavigationVStack.swift */,
 			);
 			path = StackOverflow;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6AA4D330290BA49A002FFDE5 /* NavigationVStack.swift in Sources */,
 				6A7E109D28AFF04500CE3CFD /* Frame.swift in Sources */,
 				6A09D63E28A46311005E5C23 /* MiniNavigationView.swift in Sources */,
 				6A832ED328A60BC000F4EBEF /* ColorPicker.swift in Sources */,
