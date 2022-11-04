@@ -8,15 +8,15 @@
 import SwiftUI
         
 struct ContentView: View {
-
+    @State var text = "Sent"
     var body: some View {
-        Text("Hello world")
-    }
-}
-
-struct FilterView: View {
-    var body: some View {
-        Color.green
+        VStack {
+            if text == "Sent" {
+                Text("Hello world")
+            } else {
+                
+            }
+        }
     }
 }
 
